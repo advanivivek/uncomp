@@ -924,12 +924,12 @@ body {
 .cid-qX9Cofsoyt .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #f3f276;
+  background: #ff4f7b;
   background: none;
 }
 .cid-qX9Cofsoyt .navbar.opened {
   transition: all .3s;
-  background: #f3f276 !important;
+  background: #ff4f7b !important;
 }
 .cid-qX9Cofsoyt .navbar .dropdown-item {
   padding: .235rem 2.5rem .235rem 1.5rem;
@@ -1024,7 +1024,7 @@ body {
   }
 }
 .cid-qX9Cofsoyt .navbar.navbar-short {
-  background: #f3f276 !important;
+  background: #ff4f7b !important;
   min-height: 60px;
 }
 .cid-qX9Cofsoyt .navbar.navbar-short .navbar-logo img {
@@ -1063,7 +1063,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qX9Cofsoyt .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f3f276;
+  background: #ff4f7b;
 }
 .cid-qX9Cofsoyt .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1093,7 +1093,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #ff7b9c;
 }
 .cid-qX9Cofsoyt button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
