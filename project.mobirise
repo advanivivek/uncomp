@@ -57,7 +57,7 @@
         "main": true,
         "title": "Uncomplicat (Beta)",
         "meta_descr": "Helping creative people grow their following and get more gigs via short, actionable cat videos. Purrfect bridge between art and business. ",
-        "header_custom": "",
+        "header_custom": "<script type=\"text/javascript\">!function(d){var s=d.createElement('script');s.src='https://widget.indemand.ly/launcher.js';s.onload=function(){new Indemandly({\"domain\":\"human\"});};var c=d.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}(document)</script>",
         "footer_custom": "",
         "html_before": ""
       },
